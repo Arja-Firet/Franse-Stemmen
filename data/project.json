@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "Arja-Firet",
+    "is_private": false,
+    "title": "Franse stemmen uit Parijs",
+    "description": "Audio fragmenten van stemmen uit verschillende wijken in Parijs.",
+    "language": "nl",
+    "slug": "Franse-Stemmen",
+    "creator": "Arja-Firet",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-07-15T14:11:48.243Z",
+    "updated_at": "2025-07-15T14:11:48.243Z"
   }
 }
